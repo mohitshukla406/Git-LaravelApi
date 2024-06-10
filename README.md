@@ -1,2 +1,5 @@
 # Git-LaravelApi
-this is repository laravel api this day
+extract zip file 
+sql import sql 
+and chek post man create view update delete api
+
